@@ -91,3 +91,14 @@ gatsby new my-blog-folder https://github.com/thundermiracle/gatsby-startbootstra
 ## License
 
 This project is licensed under the terms of the [MIT license](/LICENSE).
+
+
+## Notes
+
+### Environment requirements
+
+nodejs@14.15.3
+npm@6.14.9
+create-react-app@4.0.1
+gatsby-cli@2.17.1
+yarn@1.22.10
